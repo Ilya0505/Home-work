@@ -1,0 +1,38 @@
+ hr {
+   border: 0;
+   border-top: 1px solid #000;
+   margin: 20px 0;
+
+ }
+
+ .c1 {
+   font-family: 'Open Sans', Arial, sans-serif;
+   font-size: 20px;
+   line-height: 30px;
+   font-weight: 300px;
+   font-style: normal;
+ }
+
+ .c2 {
+   font-size: 40px;
+   text-decoration: line-through;
+ }
+
+
+ .c3 {
+   font-size: 30px;
+   text-transform: uppercase;
+   text-align: center;
+ }
+
+ .c4 {
+   text-shadow: 1px 2px 1px #340333;
+   color: rgb(55, 3, 55);
+   text-decoration: overline wavy;
+   word-spacing: 30px
+ }
+
+ .c5 {
+   text-decoration: double underline;
+   letter-spacing: 5px
+ }
