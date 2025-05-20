@@ -1,10 +1,11 @@
-
 .c1{
  background-color: rgb(210, 210, 210);
 box-sizing: border-box;
-max-height: 600px;
-min-height: 500px;
-overflow: auto;
+max-width:  1000px;
+min-width: 500px;
+max-height: 400px;
+min-height: 50px;
+ overflow:auto;
 
 
 border: 1px solid #000;
@@ -17,18 +18,20 @@ border-bottom-left-radius:  20px;
 {
 box-sizing: border-box;
 margin: 5px;
-padding:20px 15px 10px 25px; ;
+padding: 20px 20px 20px 30px;
 background-color: rgb(181, 136, 62);
 }
 
 .c2
 {
 display: inline-block;
-width: 200px;
+width: 190px;
 border: 3px groove rgb(155, 117, 55);
 border-radius: 30px;
 opacity: 0.9;
+
 }
+
 
 
 
