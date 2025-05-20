@@ -2,7 +2,7 @@
 .c1{
  background-color: rgb(210, 210, 210);
 box-sizing: border-box;
-max-height: 800px;
+max-height: 600px;
 min-height: 500px;
 overflow: auto;
 
